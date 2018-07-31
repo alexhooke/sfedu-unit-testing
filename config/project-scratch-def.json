@@ -1,0 +1,12 @@
+{
+  "country": "US",
+  "edition": "Developer",
+  "orgPreferences": {
+    "enabled": [
+      "S1DesktopEnabled"
+    ],
+    "disabled": []
+  },
+  "orgName": "Learning Center - Unit Testing",
+  "adminEmail": "yourname@example.com"
+}

@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "app",
+      "versionName": "Spring 18",
+      "versionNumber": "2.0.0.NEXT"
+    }
+  ],
+  "namespace": "",
+  "sourceApiVersion": "43.0"
+}
